@@ -1,8 +1,4 @@
-body{
-  margin: 0;
-  background: pink;
-  text-align: center;
-}
+
 /* The sidebar menu */
 .sidenav {
  height: 100%; /* Full-height: remove this if you want "auto" height */
@@ -40,4 +36,4 @@ body{
 @media screen and (max-height: 450px) {
  .sidenav {padding-top: 15px;}
  .sidenav a {font-size: 18px;}
-} 
+}
